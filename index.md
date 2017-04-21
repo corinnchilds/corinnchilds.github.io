@@ -1,1 +1,3 @@
-![Here is my coding portfolio](images/hiking-pic.jpg)
+# Here is me hiking!
+
+[Oneonta Falls](images/hiking-pic.jpg)
